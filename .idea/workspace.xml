@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bfc9eb6-a8c1-4d01-8377-61324569f8d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PersonArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ragged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEachDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysInArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysInArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
   "keyToString": {
     "Application.ArraysInArrays.executor": "Run",
     "Application.Bubble.executor": "Run",
+    "Application.ForEachDemo.executor": "Run",
     "Application.PersonArray.executor": "Run",
     "Application.Ragged.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -67,7 +64,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
+          <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
